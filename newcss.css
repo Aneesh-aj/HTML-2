@@ -1,0 +1,14 @@
+.new{
+    width: 100%;
+    height: 600px;
+    background-image: url(Netflix.jpg);
+    background-size: 100%;
+    background-color: black;
+    
+}
+.new1{
+    width: 100%;
+    height: 600px;
+    background: rgb(10,18,36);
+background: linear-gradient(22deg, rgba(10,18,36,1) 0%, rgba(7,11,28,0.23573179271708689) 100%);
+}
